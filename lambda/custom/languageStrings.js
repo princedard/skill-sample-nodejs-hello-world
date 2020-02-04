@@ -93,5 +93,16 @@ module.exports = {
             FALLBACK_MSG: 'Sorry, मैं वो समझ नहीं पायी. क्या आप दोहरा सकते हैं ',
             ERROR_MSG: 'Sorry, मैं वो समझ नहीं पायी. क्या आप दोहरा सकते हैं '
         }
+    },
+    ar : {
+        translation: {
+            WELCOME_MSG: 'مرحبا, كيف أستطيع المساعدة؟',
+            HELLO_MSG: 'السلام عليكم',
+            HELP_MSG: 'كيف أستطيع المساعدة',
+            GOODBYE_MSG: 'إلى اللقاء',
+            REFLECTOR_MSG: 'لقد أثرت موضوع {{intentName}}',
+            FALLBACK_MSG: '.عفوا, لا أعلم ذلك, أرجو أن تحاول مرة أخرى',
+            ERROR_MSG: '.عفوا, لم أفهم ما تطلبه, أرجو أن تحاول مرة أخرى'
+        }
     }
 }
